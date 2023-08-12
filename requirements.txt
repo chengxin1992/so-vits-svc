@@ -26,6 +26,6 @@ edge_tts
 langdetect
 pyyaml
 pynvml
-faiss-cpu
+faiss-gpu
 einops
 local_attention
