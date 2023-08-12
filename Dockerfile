@@ -1,5 +1,5 @@
 # 使用指定基础镜像
-FROM registry.cn-beijing.aliyuncs.com/pai-dlc/modelscope-training:1.6.1-pytorch1.11.0-gpu-py38-cu113-ubuntu20.04
+FROM registry.cn-beijing.aliyuncs.com/pai-dlc/pytorch-training:1.12-gpu-py39-cu113-ubuntu20.04
 
 # 设置工作目录
 WORKDIR /
